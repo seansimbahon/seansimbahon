@@ -61,22 +61,8 @@ I am currently open to junior developer roles, freelance projects, and remote op
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seansimbahon&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seansimbahon&layout=compact&theme=github_dark&hide_border=true" width="40%"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=seansimbahon&theme=github-dark-blue&hide_border=true"/>
 </p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| [📅 Bookuman](https://github.com/seansimbahon/bookuman) | Community-based event booking platform for Surigao City with AI/ML integration | MERN, Machine Learning |
-| [🌐 Portfolio](https://github.com/seansimbahon/portfolio) | Personal developer portfolio website | React, CSS |
 
 ---
 
