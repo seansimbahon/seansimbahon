@@ -19,7 +19,7 @@ I specialize in building responsive, functional, and user-centered web applicati
 with hands-on experience in the **MERN stack**, **Python**, and **Java**.
 I am currently open to junior developer roles, freelance projects, and remote opportunities.
 
-- 🔭 Currently working on **Bookuman** — a community-based event booking platform for Surigao City
+- 🔭 Finished working on **Bookuman** — a community-based event booking platform for Surigao City
 - 🌱 Continuously improving my skills in **full-stack development** and **REST API design**
 - 💼 Open to: Junior Developer · Full-Stack · Remote / Freelance roles
 - 📍 Based in **Surigao City, Philippines**
